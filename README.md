@@ -27,7 +27,7 @@ npm install
 
 This installs essential dependencies like:
 
-- `react-router-dom` – for client-side routing  
+- `react-router-dom - npm install react-router-dom localforage match-sorter sort-by` – for client-side routing  
 - `axios` – for making API calls  
 - `tailwindcss`, `postcss`, and `autoprefixer` – for styling  
 
@@ -35,7 +35,7 @@ If not already configured, install manually:
 
 ```bash
 npm install react-router-dom axios
-npm install -D tailwindcss postcss autoprefixer
+npm install tailwindcss@3.4.17 postcss autoprefixer
 npx tailwindcss init -p
 ```
 
