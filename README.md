@@ -40,9 +40,6 @@ REACT_APP_API_BASE_URL=http://localhost:8080
 ```bash
 npm start
 ```
-
-The app will run on: [http://localhost:3000](http://localhost:3000)
-
 ---
 
 ### 🖼️ Pages & Functionality
